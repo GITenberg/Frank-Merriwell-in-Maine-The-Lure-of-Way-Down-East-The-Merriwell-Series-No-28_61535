@@ -1,5 +1,8 @@
 _repo: Frank-Merriwell-in-Maine-The-Lure-of-Way-Down-East-The-Merriwell-Series-No-28_61535
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61535-h/images/cover.jpg
 creator:
   author:
     agent_name: Standish, Burt L.
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3848
     wikipedia: http://en.wikipedia.org/wiki/Burt_L._Standish
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61535#Frank-Merriwell-in-Maine-The-Lure-of-Way-Down-East-The-Merriwell-Series-No-28
 gutenberg_issued: '2020-02-29'
 gutenberg_type: Text
 identifiers:
